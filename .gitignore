@@ -1,1 +1,3 @@
 20221010_python_abc
+*.md
+!README.md
